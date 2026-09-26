@@ -1,4 +1,4 @@
-#### Model-Agnostic Semantic Consistency Learning for Adversarial Detection
+#### Semantic Consistency Reconstruction for Black-Box Adversarial Detection
 #### Public Datasets
 ######
 MNIST and CIFAR-10 can be loaded directly via PyTorch built-in libraries. 
